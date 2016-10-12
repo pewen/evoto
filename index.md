@@ -7,12 +7,12 @@ title: {{ site.name }}
 
 ### Expositores
 
-> Javier Smaldone (informático, especialista en voto electrónico).
-> Daniel Penazzi (matemático, especialista en criptografía).
-> Javier Pallero (analista de políticas públicas en AccessNow)
-> Rodrigo Iglesias (abogado)
+> Javier Smaldone (informático, especialista en voto electrónico).  
+> Daniel Penazzi (matemático, especialista en criptografía).  
+> Javier Pallero (analista de políticas públicas en AccessNow)  
+> Rodrigo Iglesias (abogado)  
 
-### 30 de Nov. 2016 14hs, Aula Magna de la Fac. de Ciencias Económicas UNRC (Río Cuarto).
+### 30 de Nov. 2016 14hs, Aula Magna de la Fac. de Ciencias Económicas UNRC.
 
 ### Organiza
 
