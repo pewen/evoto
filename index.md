@@ -19,3 +19,8 @@ title: {{ site.name }}
 Programa de difusión y uso del Software Libre  
 Facultad de Ciencias Económicas  
 UNIVERSIDAD NACIONAL DE RÍO CUARTO.
+
+### Invita
+Fundación Vía Libre
+
+### Adhieren
