@@ -16,7 +16,8 @@ title: {{ site.name }}
 
 ### Organiza
 
-Programa de difusión y uso del Software Libre  
+Programa de difusión y uso del Software Libre
+Secretaría de Extensión  
 Facultad de Ciencias Económicas  
 UNIVERSIDAD NACIONAL DE RÍO CUARTO.
 
