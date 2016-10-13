@@ -3,7 +3,7 @@ layout: default
 title: {{ site.name }}
 ---
 
-![](./img/evoto.png)
+![](./img/voto-electronico.jpg)
 
 ### Expositores
 
@@ -25,3 +25,5 @@ UNIVERSIDAD NACIONAL DE RÍO CUARTO.
 Fundación Vía Libre
 
 ### Adhieren
+
+![](./img/evoto.png)
