@@ -5,7 +5,7 @@ title: {{ site.name }}
 
 ![](./img/voto-electronico.jpg)
 
-### Expositores
+### Panel de especialistas
 
 > **Javier Smaldone** (informático, especialista en voto electrónico).  
 > **Daniel Penazzi** (matemático, especialista en criptografía).  
