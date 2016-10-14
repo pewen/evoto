@@ -22,7 +22,7 @@ Facultad de Ciencias Económicas
 UNIVERSIDAD NACIONAL DE RÍO CUARTO.
 
 ### Invitan
-Fundación Vía Libre
+[Fundación Vía Libre](http://www.vialibre.org.ar)
 
 ### Adhieren
 
