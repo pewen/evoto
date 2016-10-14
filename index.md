@@ -25,5 +25,4 @@ UNIVERSIDAD NACIONAL DE RÍO CUARTO.
 [Fundación Vía Libre](http://www.vialibre.org.ar)
 
 ### Adhieren
-
 ![](./img/evoto.png)
