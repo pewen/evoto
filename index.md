@@ -27,6 +27,8 @@ UniRioTV, Pantalla libre
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/6ItmBiltW9M" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
+
 [El especialista Javier Smaldone participó del Foro Abierto “Voto electrónico, un desafío para la democracia”](https://www.unrc.edu.ar/unrc/n_comp.cdc?nota=30231)
 
 
