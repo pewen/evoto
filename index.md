@@ -17,8 +17,18 @@ title: {{ site.name }}
 > **Rodrigo Iglesias** (abogado técnico e investigador de la UBA sobre las implicancias de utilizar Voto Electrónico)  
 > **Marcelo Arroyo** (docente dpto Computación, UNRC)  
 > **Nazareno Aguirre** (Dir. dpto Computación, UNRC)
+> **Enrique Chaparro** (matemático, especialista en Seguridad Informática)
 
-### 30 de Nov. 2016 10hs, Aula Magna de la Fac. de Ciencias Económicas UNRC.
+
+### Cobertura periodística en la UNRC
+
+UniRioTV, Pantalla libre
+<iframe width="420" height="315" src="http://www.youtube.com/embed/OhYTRBVWfiE" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/6ItmBiltW9M" frameborder="0" allowfullscreen></iframe>
+
+[El especialista Javier Smaldone participó del Foro Abierto “Voto electrónico, un desafío para la democracia”](https://www.unrc.edu.ar/unrc/n_comp.cdc?nota=30231)
+
 
 ### Organiza
 
