@@ -22,18 +22,13 @@ title: {{ site.name }}
 
 ### Cobertura periodística en la UNRC
 
-UniRioTV, Pantalla libre
+UniRioTV, Pantalla libre, entrevista a Enrique Chaparro y Daniel Penazzi
+https://www.youtube.com/watch?v=OhYTRBVWfiE
 
-{% youtube oHg5SJYRHA0 %}
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/OhYTRBVWfiE" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/6ItmBiltW9M" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
+Entrevista a Enrique Chaparro
+http://www.youtube.com/embed/WO82PoAczTc
 
 [El especialista Javier Smaldone participó del Foro Abierto “Voto electrónico, un desafío para la democracia”](https://www.unrc.edu.ar/unrc/n_comp.cdc?nota=30231)
-
 
 ### Organiza
 
