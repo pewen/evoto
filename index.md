@@ -22,7 +22,7 @@ title: {{ site.name }}
 ### Cobertura periodística en la UNRC
 
 #### UniRío TV (Canal de TV de la UNRC)
-> [UniRioTV, Pantalla libre, entrevista a Enrique Chaparro y Daniel Penazzi](https://www.youtube.com/watch?v=OhYTRBVWfiE)
+> [UniRioTV, Pantalla libre, entrevista a Enrique Chaparro y Daniel Penazzi](https://www.youtube.com/watch?v=OhYTRBVWfiE)  
 > [Entrevista a Enrique Chaparro](http://www.youtube.com/embed/WO82PoAczTc)
 
 #### Radio UNRC
