@@ -5,9 +5,8 @@ title: {{ site.name }}
 
 ![](./img/banner_eVoto_FCE-UNRC.jpeg)
 
-### Presentación del Foro por Fede Heinz
-
-[Video](https://goo.gl/photos/e9RLxtwLwkQu3qPf7)
+### Presentación del Foro
+[Fede Heinz](https://goo.gl/photos/e9RLxtwLwkQu3qPf7)
 
 ### Panel de especialistas
 
