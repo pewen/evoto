@@ -3,7 +3,7 @@ layout: default
 title: {{ site.name }}
 ---
 
-![](./img/voto-electronico.jpg)
+![](./img/banner_eVoto_FCE-UNRC.jpeg)
 
 ### Panel de especialistas
 
@@ -11,8 +11,8 @@ title: {{ site.name }}
 > **Daniel Penazzi** (matemático, especialista en criptografía).  
 > **Javier Pallero** (analista de políticas TIC para América Latina en Access Now)  
 > **Rodrigo Iglesias** (abogado técnico e investigador de la UBA sobre las implicancias de utilizar Voto Electrónico)  
-> ** Marcelo Arroyo** (docente dpto Computación, UNRC)
-> ** Nazareno Aguirre** (Dir. dpto Computación, UNRC)
+> **Marcelo Arroyo** (docente dpto Computación, UNRC)  
+> **Nazareno Aguirre** (Dir. dpto Computación, UNRC)
 
 ### 30 de Nov. 2016 10hs, Aula Magna de la Fac. de Ciencias Económicas UNRC.
 
