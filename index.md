@@ -32,4 +32,4 @@ UNIVERSIDAD NACIONAL DE RÍO CUARTO.
 
 ![](./img/flyer_eVoto_FCE-UNRC.jpeg)
 
-![](./Cyisrl_WgAAXPMQ.jpg)
+![](./img/Cyisrl_WgAAXPMQ.jpg)
