@@ -46,6 +46,4 @@ Resolución Nro 152/16
 
 ![](./img/flyer_eVoto_FCE-UNRC.jpeg)
 
-### Foto grupal
-
 ![](./img/Cyisrl_WgAAXPMQ.jpg)
