@@ -7,7 +7,7 @@ title: {{ site.name }}
 
 ### Presentación del Foro por Fede Heinz
 
-[Video] (http://tiny.cc/ut1dhy)
+[Video](http://tiny.cc/ut1dhy)
 
 <iframe width="420" height="315" src="https://photos.google.com/share/AF1QipOC_Vlm-dYU7m0QLSD9NSNpL1RbAk6b57ZQL131RyGcqy-HjqxdhJbKq8S8Ay46rA?key=V2JWVGVseThoRndjanYyLVBvenJiUDUxbU1lZy1R" frameborder="0" allowfullscreen></iframe>
 
@@ -33,3 +33,5 @@ UNIVERSIDAD NACIONAL DE RÍO CUARTO.
 [Fundación Vía Libre](http://www.vialibre.org.ar)
 
 ![](./img/flyer_eVoto_FCE-UNRC.jpeg)
+
+![](./Cyisrl_WgAAXPMQ.jpg)
