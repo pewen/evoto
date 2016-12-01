@@ -11,9 +11,10 @@ title: {{ site.name }}
 > **Daniel Penazzi** (matemático, especialista en criptografía).  
 > **Javier Pallero** (analista de políticas TIC para América Latina en Access Now)  
 > **Rodrigo Iglesias** (abogado técnico e investigador de la UBA sobre las implicancias de utilizar Voto Electrónico)  
-> **José María Pérez Corti** (profesor de Derecho Electoral Argentino de la UNC)  
+> ** Marcelo Arroyo** (docente dpto Computación, UNRC)
+> ** Nazareno Aguirre** (Dir. dpto Computación, UNRC)
 
-### 30 de Nov. 2016 14hs, Aula Magna de la Fac. de Ciencias Económicas UNRC.
+### 30 de Nov. 2016 10hs, Aula Magna de la Fac. de Ciencias Económicas UNRC.
 
 ### Organiza
 
@@ -25,5 +26,4 @@ UNIVERSIDAD NACIONAL DE RÍO CUARTO.
 ### Invitan
 [Fundación Vía Libre](http://www.vialibre.org.ar)
 
-### Adhieren
-![](./img/evoto.png)
+![](./img/flyer_eVoto_FCE-UNRC.jpeg)
