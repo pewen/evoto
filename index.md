@@ -38,7 +38,7 @@ Secretaría de Extensión y Asistencia Técnica
 Facultad de Ciencias Económicas  
 UNIVERSIDAD NACIONAL DE RÍO CUARTO.
 
-#### Declarado de interés legislativo por el Concejo Deliberante de Río Cuarto
+### Declarado de interés legislativo por el Concejo Deliberante de Río Cuarto
 Resolución Nro 152/16
 
 ### Invitan
