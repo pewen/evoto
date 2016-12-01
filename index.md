@@ -16,13 +16,14 @@ title: {{ site.name }}
 > **Javier Pallero** (analista de políticas TIC para América Latina en Access Now)  
 > **Rodrigo Iglesias** (abogado técnico e investigador de la UBA sobre las implicancias de utilizar Voto Electrónico)  
 > **Marcelo Arroyo** (docente dpto Computación, UNRC)  
-> **Nazareno Aguirre** (Dir. dpto Computación, UNRC)
+> **Nazareno Aguirre** (Dir. dpto Computación, UNRC)  
 > **Enrique Chaparro** (matemático, especialista en Seguridad Informática)
 
 
 ### Cobertura periodística en la UNRC
 
 UniRioTV, Pantalla libre
+
 <iframe width="420" height="315" src="http://www.youtube.com/embed/OhYTRBVWfiE" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/6ItmBiltW9M" frameborder="0" allowfullscreen></iframe>
