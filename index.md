@@ -23,7 +23,8 @@ title: {{ site.name }}
 
 #### UniRío TV (Canal de TV de la UNRC)
 > [UniRioTV, Pantalla libre, entrevista a Enrique Chaparro y Daniel Penazzi](https://www.youtube.com/watch?v=OhYTRBVWfiE)  
-> [Entrevista a Enrique Chaparro](https://www.youtube.com/watch?v=6ItmBiltW9M)
+> [Entrevista a Enrique Chaparro](https://www.youtube.com/watch?v=6ItmBiltW9M)  
+> [Entrevista a Daniel Penazzi](https://www.youtube.com/watch?v=4O9_wlHPfr0)
 
 #### Radio UNRC
 > [#UNRC: Se realiza el foro abierto “Económicas debate el voto electrónico”](https://soundcloud.com/radiounrc/unrc-se-realiza-el-foro-abierto-economicas-debate-el-voto-electronico)
