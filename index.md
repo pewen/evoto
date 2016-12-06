@@ -29,6 +29,10 @@ title: {{ site.name }}
 #### Radio UNRC
 > [#UNRC: Se realiza el foro abierto “Económicas debate el voto electrónico”](https://soundcloud.com/radiounrc/unrc-se-realiza-el-foro-abierto-economicas-debate-el-voto-electronico)
 
+> [El voto electrónico se pone en discusión en la UNRC](https://soundcloud.com/radiounrc/el-voto-electronico-se-pone-en-discusion-en-la-unrc)
+
+> [El Consejo Superior resolvió rechazar la implementación de la boleta única electrónica](https://soundcloud.com/radiounrc/el-consejo-superior-resolvio-rechazar-la-implementacion-de-la-boleta-unica-electronica)
+
 #### Web UNRC
 > [El especialista Javier Smaldone participó del Foro Abierto “Voto electrónico, un desafío para la democracia”](https://www.unrc.edu.ar/unrc/n_comp.cdc?nota=30231)
 
