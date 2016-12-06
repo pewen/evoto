@@ -32,7 +32,9 @@ title: {{ site.name }}
 #### Web UNRC
 > [El especialista Javier Smaldone participó del Foro Abierto “Voto electrónico, un desafío para la democracia”](https://www.unrc.edu.ar/unrc/n_comp.cdc?nota=30231)
 
-> [Sobre el voto electrónico, dijo Smaldone: “Hay una disociación marcada entre lo técnico y político””](http://www.eco.unrc.edu.ar/seccion/voto-electronico/)
+> [Sobre el voto electrónico, dijo Iglesias: “Cuando se vulneran los certificados, hay un problema de seguridad”](http://www.eco.unrc.edu.ar/seccion/voto-2/)
+
+> [Sobre el voto electrónico, dijo Smaldone: “Hay una disociación marcada entre lo técnico y político”](http://www.eco.unrc.edu.ar/seccion/voto-electronico/)
 
 ### Organiza
 
