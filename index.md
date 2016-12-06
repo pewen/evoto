@@ -23,23 +23,23 @@ title: {{ site.name }}
 
 #### UniRío TV (Canal de TV de la UNRC)
 > [UniRioTV, Pantalla libre, entrevista a Enrique Chaparro y Daniel Penazzi](https://www.youtube.com/watch?v=OhYTRBVWfiE)
-
+>
 > [Entrevista a Enrique Chaparro](https://www.youtube.com/watch?v=6ItmBiltW9M)
-
+>
 > [Entrevista a Daniel Penazzi](https://www.youtube.com/watch?v=4O9_wlHPfr0)
 
 #### Radio UNRC
 > [#UNRC: Se realiza el foro abierto “Económicas debate el voto electrónico”](https://soundcloud.com/radiounrc/unrc-se-realiza-el-foro-abierto-economicas-debate-el-voto-electronico)
-
+>
 > [El voto electrónico se pone en discusión en la UNRC](https://soundcloud.com/radiounrc/el-voto-electronico-se-pone-en-discusion-en-la-unrc)
-
+>
 > [El Consejo Superior resolvió rechazar la implementación de la boleta única electrónica](https://soundcloud.com/radiounrc/el-consejo-superior-resolvio-rechazar-la-implementacion-de-la-boleta-unica-electronica)
 
 #### Web UNRC
 > [El especialista Javier Smaldone participó del Foro Abierto “Voto electrónico, un desafío para la democracia”](https://www.unrc.edu.ar/unrc/n_comp.cdc?nota=30231)
-
+>
 > [Sobre el voto electrónico, dijo Iglesias: “Cuando se vulneran los certificados, hay un problema de seguridad”](http://www.eco.unrc.edu.ar/seccion/voto-2/)
-
+>
 > [Sobre el voto electrónico, dijo Smaldone: “Hay una disociación marcada entre lo técnico y político”](http://www.eco.unrc.edu.ar/seccion/voto-electronico/)
 
 ### Organiza
